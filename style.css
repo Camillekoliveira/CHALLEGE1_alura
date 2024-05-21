@@ -1,0 +1,14 @@
+body{
+    margin-left: 0px;
+    padding: 0px;
+    background: #F3F5FC;
+}   
+
+header{
+    display: flex;
+    justify-content:left;
+    padding: 10px 90px;
+    height: 60px;
+    gap: 30%;        
+} 
+
